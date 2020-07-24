@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-springboot-expense-tracker-app/static/css/main.5d79c63e.chunk.css",
+    "main.js": "/react-springboot-expense-tracker-app/static/js/main.93091f00.chunk.js",
+    "main.js.map": "/react-springboot-expense-tracker-app/static/js/main.93091f00.chunk.js.map",
+    "runtime-main.js": "/react-springboot-expense-tracker-app/static/js/runtime-main.ee94c789.js",
+    "runtime-main.js.map": "/react-springboot-expense-tracker-app/static/js/runtime-main.ee94c789.js.map",
+    "static/css/2.fea45d51.chunk.css": "/react-springboot-expense-tracker-app/static/css/2.fea45d51.chunk.css",
+    "static/js/2.d0dba39a.chunk.js": "/react-springboot-expense-tracker-app/static/js/2.d0dba39a.chunk.js",
+    "static/js/2.d0dba39a.chunk.js.map": "/react-springboot-expense-tracker-app/static/js/2.d0dba39a.chunk.js.map",
+    "index.html": "/react-springboot-expense-tracker-app/index.html",
+    "precache-manifest.8cbe791d513716c797e972d776a2fd1d.js": "/react-springboot-expense-tracker-app/precache-manifest.8cbe791d513716c797e972d776a2fd1d.js",
+    "service-worker.js": "/react-springboot-expense-tracker-app/service-worker.js",
+    "static/css/2.fea45d51.chunk.css.map": "/react-springboot-expense-tracker-app/static/css/2.fea45d51.chunk.css.map",
+    "static/css/main.5d79c63e.chunk.css.map": "/react-springboot-expense-tracker-app/static/css/main.5d79c63e.chunk.css.map",
+    "static/js/2.d0dba39a.chunk.js.LICENSE.txt": "/react-springboot-expense-tracker-app/static/js/2.d0dba39a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee94c789.js",
+    "static/css/2.fea45d51.chunk.css",
+    "static/js/2.d0dba39a.chunk.js",
+    "static/css/main.5d79c63e.chunk.css",
+    "static/js/main.93091f00.chunk.js"
+  ]
+}
