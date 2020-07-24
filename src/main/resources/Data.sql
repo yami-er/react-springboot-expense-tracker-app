@@ -1,6 +1,6 @@
-insert into user values (1,'Siamak', 'Codeengine11@gmail.com')
-insert into user values (2,'John', 'John@john.com')
-insert into user values (3,'Adam', 'adam@adam.com')
+insert into user values (1,'Lian', 'Liana@gmail.com')
+insert into user values (2,'Jonathan', 'Jonathan@gmail.com')
+insert into user values (3,'Samuel', 'Samuel@gmail.com')
 
 
 insert into category values (1,'Travel')
